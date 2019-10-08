@@ -13,4 +13,17 @@ export default StyleSheet.create({
     textAlign: 'center',
     elevation: 1,
   },
+  input: {
+    height: 48,
+    fontSize: 16,
+    borderColor: '#707070',
+    borderWidth: 0.5,
+    marginBottom: 10
+  },
+  fonte40: {
+    fontSize: 16
+  },
+  
+    
+
 });
